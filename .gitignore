@@ -1,0 +1,9 @@
+Makefile
+library_system
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+bookeditor_test
+lib/
+bookshelf_test
+librarymember_test
